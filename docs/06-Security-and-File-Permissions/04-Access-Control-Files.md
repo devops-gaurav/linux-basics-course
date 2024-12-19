@@ -1,6 +1,5 @@
 # ACCESS CONTROL FILES
 
-  - Take me to the [Tutorial](https://kodekloud.com/topic/access-control-files/)
   
   - Access Ccontrol files are stored under **`/etc`**.
   - Can be read by anyone and can be only edited by **`root`** user.
