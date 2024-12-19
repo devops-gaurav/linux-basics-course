@@ -1,6 +1,4 @@
-# Lab - Working with shell
 
-- Access Hands-On Labs here [Hands-On-Labs](https://kodekloud.com/topic/lab-working-with-the-shell/)
 
 1. To check the home directory for a particular user say **`bob`**
    ```
