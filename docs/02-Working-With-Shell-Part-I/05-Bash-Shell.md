@@ -1,7 +1,3 @@
-# Bash Shell
-
-- Take me to the [Video Tutorial](https://kodekloud.com/topic/bash-shell/)
-
 ## Different types of Shells
 
 In this section, we will take a look at different types of shells.
