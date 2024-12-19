@@ -1,6 +1,5 @@
 # File Types in Linux
 
-- Take me to the [Video Tutorial](https://kodekloud.com/topic/file-types/)
 
 In this section, we will take a look at different types of files in linux.
 - Everything is a file in Linux. 
