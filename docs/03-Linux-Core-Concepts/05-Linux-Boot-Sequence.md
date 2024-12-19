@@ -1,7 +1,5 @@
 # Linux Boot Sequence
 
-- Take me to the [Video Tutorial](https://kodekloud.com/topic/linux-boot-sequence/)
-
 In this section, we look at the boot process in a simplied manner by dividing it into four broader steps.
 - The boot process can be broken down into four stages
   1. BIOS POST
