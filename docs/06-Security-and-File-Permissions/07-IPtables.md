@@ -1,6 +1,5 @@
 # IPTABLES
 
-  - Take me to the [Tutorial](https://kodekloud.com/topic/iptables-introduction/)
   - In this lecture, we will learn about IPtables basic commands.
   
 **Iptables** uses a set of tables that have chains that contain a set of built-in or user-defined rules.
