@@ -108,6 +108,3 @@
     [~]$ chgrp android test-file
     ```
 
-# HANDS-ON LABS
-
-  - Lets do some hands on labs to understand File Permission better. [Take me to Labs](https://kodekloud.com/courses/873064/lectures/17074516)
