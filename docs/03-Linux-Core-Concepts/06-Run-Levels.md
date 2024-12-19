@@ -1,6 +1,5 @@
 # Run Levels
 
-- Take me to the [Video Tutorial](https://kodekloud.com/topic/runlevels/)
 
 ## Systemd Targets (Run Levels)
 
