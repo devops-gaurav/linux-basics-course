@@ -38,6 +38,4 @@
 
     ![egp](../../images//egp.PNG)
 
-# HANDS-ON LABS
 
-  - Lets start with Managing and User Accounts [here](https://kodekloud.com/courses/the-linux-basics-course/lectures/17074503)
