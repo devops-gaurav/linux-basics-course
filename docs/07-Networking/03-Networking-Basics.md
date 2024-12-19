@@ -63,6 +63,4 @@
 
   - To make this changes permanent you must set them in **`/etc/network/interfaces`** file.
 
-# HANDS-ON LAB
 
-  -  Lets get our hands on [LABS](https://kodekloud.com/courses/873064/lectures/17074533)
