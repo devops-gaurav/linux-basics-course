@@ -1,7 +1,5 @@
 # Working with Hardware
 
-- Take me to the [Video Tutorial](https://kodekloud.com/topic/working-with-hardware/)
-
 In this section, we will look at how linux works with the hardware resources available to the system and how to make use of kernel modules
 - We will look at how linux identifies and manages hardware devices attached to the system
 - We will then see ways to list and get detailed information about these devices from the command line.
